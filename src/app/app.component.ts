@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'book-client';
+  title = 'Spring-boot+Angular-@GETALL-book-client';
 }
